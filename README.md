@@ -8,3 +8,8 @@ This code will be used to convert the Oracle Knowledge Management Articles  XML 
       - XML FILE
       - Embedded folder with Images (Folder name should be FAQ Number)
 - Handles the base64 Decodeded images in XML.      
+- Java code will run on 3 Parameters
+    - XML file of OKM
+	- XLST FILE
+	- Path where the csv should be cretaed
+	
